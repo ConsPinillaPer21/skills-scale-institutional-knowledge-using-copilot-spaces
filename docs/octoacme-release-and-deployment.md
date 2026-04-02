@@ -36,3 +36,5 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+> **See also:** [`octoacme-roles-and-personas.md`](./octoacme-roles-and-personas.md) for release role responsibilities and [`octoacme-roles-and-personas-raci.md`](./octoacme-roles-and-personas-raci.md) for the RACI matrix covering release and deployment activities.
